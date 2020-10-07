@@ -1,0 +1,12 @@
+.mainWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.contentWrapper {
+  background-color: rgb(37, 38, 40);
+  max-width: 500px;
+  width: 100%;
+  min-height: 100vh;
+  max-height: 100%;
+}
